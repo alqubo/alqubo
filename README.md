@@ -19,7 +19,7 @@ Full-stack developer from Spain. I build web & mobile apps and the infrastructur
 
 ## 💼 Selected work
 
-- **[Perseo TV](https://perseo.tv)**: multi-device TV streaming platform with 25k+ users. Led a team of 10 devs.
+- **[Perseo TV](https://perseo.tv)**: multi-device TV streaming platform with 25k+ users.
 - **[Pixentinel](https://www.pixentinel.com)**: SaaS that uses AI to detect video and audio errors in live streams in real time.
   
 ## 📫 Contact
